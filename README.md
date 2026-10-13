@@ -26,9 +26,9 @@ Este proyecto nació de una idea sencilla: ayudar a un hotel que todavía lleva 
 ## Estructura del proyecto
 ```
 sistema_reservas_hotel/
-├── documentacion/    el documento del proyecto
-├── base_datos/       tablas y reglas de los datos
-├── backend/          la lógica, un módulo por tema:
+├── documentacion/   
+├── base_datos/       
+├── backend/          
 │   ├── habitaciones/
 │   ├── reservas/
 │   ├── huespedes/
