@@ -41,6 +41,3 @@ sistema_reservas_hotel/
 │   └── panel_interno/   (administrador y recepción)
 └── pruebas/          casos para comprobar las reglas
 ```
-
-## Siguiente paso
-Elegir con qué lenguaje y base de datos se va a programar, ya que el documento todavía no lo define.
