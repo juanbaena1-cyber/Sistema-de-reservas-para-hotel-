@@ -1,4 +1,4 @@
-# Sistema de reservas de un hotel
+# HotelSync: Sistema Inteligente de Gestión de Reservas Hoteleras
 
 ## De qué trata
 Este proyecto nació de una idea sencilla: ayudar a un hotel que todavía lleva sus reservas en un cuaderno. Esa forma de trabajar es poco práctica y se presta para errores, así que propongo un sistema que junte en un solo lugar las reservas, las habitaciones, los huéspedes y los pagos.
